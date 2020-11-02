@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Proceso
+comment1.params=n\ r
+comment1.target=Proceso(java.lang.String,\ boolean)
+comment2.params=
+comment2.target=void\ Ejecutar()
+comment3.params=
+comment3.target=int\ gettime()
+comment4.params=adv
+comment4.target=void\ Print(java.lang.String)
+comment5.params=
+comment5.target=boolean\ getrecurso()
+comment6.params=d
+comment6.target=void\ setrecurso(boolean)
+comment7.params=
+comment7.target=void\ KillRun()
+numComments=8

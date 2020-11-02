@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Memoria
+comment1.params=c
+comment1.target=Memoria(java.util.Queue)
+comment2.params=
+comment2.target=void\ run()
+comment3.params=max
+comment3.target=void\ carga(int)
+numComments=4
